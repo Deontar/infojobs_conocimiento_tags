@@ -1,0 +1,13 @@
+Tecnología: seguridad informática
+=================================
+Antivirus
+Checkpoint
+Ciberseguridad
+Computer security
+Configuración de firewall
+Criptografía
+Firewall
+Instalación de firewall
+Security Information and Event Management (SIEM)
+Seguridad informática
+SIEM

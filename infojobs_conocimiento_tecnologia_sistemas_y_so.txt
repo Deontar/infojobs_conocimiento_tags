@@ -1,0 +1,39 @@
+Tecnología: sistemas y SO
+=========================
+Administración de sistemas
+Administración de sistemas Linux
+Configuración de sistemas
+Configuración de sistemas hardware
+Embedded Linux
+Gestión de incidentes
+Gestión de sistemas de almacenamiento
+GNU/Linux
+Instalación de software de sistemas
+Linux
+Linux RHEL
+Linux Ubuntu
+Microsoft Windows
+Microsoft Windows Server
+Rendimiento de sistemas
+Red Hat Enterprise Linux
+Red Hat Enterprise Linux (RHEL)
+Sistemas operativos
+Soporte a sistemas de ofimática
+Soporte informático a clientes
+Soporte técnico
+UNIX Shell Scripting
+VMware
+VMware ESX
+VMware ESXi
+VMware Infrastructure
+VMware vSphere
+VMware Workstation
+VMware Workstation Pro
+Windows
+Windows 2000 Professional
+Windows 2000 Server
+Windows 7
+Windows 8
+Windows 98
+Windows Server
+Windows XP

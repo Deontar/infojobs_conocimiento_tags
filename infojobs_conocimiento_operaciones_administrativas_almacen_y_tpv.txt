@@ -1,0 +1,10 @@
+Operaciones administrativas, almacén y TPV
+==========================================
+Back office
+Control de stocks
+Front office
+Manejo de bandeja
+Manejo de caja
+Preparación de pedidos
+Seguros sociales
+Sistema Red de la Seguridad Social

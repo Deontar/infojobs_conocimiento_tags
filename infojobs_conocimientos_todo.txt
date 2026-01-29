@@ -1,0 +1,214 @@
+Administración de sistemas
+Administración de sistemas Linux
+Algoritmos
+Análisis
+Análisis clínicos
+Análisis de datos
+Análisis de estados financieros
+Análisis de Peligros y Puntos Críticos de Control (APPCC)
+Análisis de resultados comerciales
+Análisis de resultados de laboratorio
+Análisis financiero
+Análisis funcional de aplicaciones
+Análisis químico
+Animación sociocultural
+Antenas
+Antivirus
+Artes digitales
+Asesoramiento de clientes
+Asesoría comercial
+Automatización industrial
+Avaya
+Avid
+Avid Media Composer
+Azure
+Azure DevOps
+Azure DevOps Server
+Back office
+Bases de datos
+Business networking
+Campaña comercial
+Campañas publicitarias
+Captación de clientes
+Carne avícola
+Checkpoint
+Ciberseguridad
+Cisco
+Cisco ASA
+Cisco Call Manager
+Cisco Certified Network Associate
+Cisco Certified Network Professional (CCNP)
+Cisco IOS
+Cisco Routers
+Cisco VoIP
+Cloud Computing
+Competencias digitales
+Computer
+Computer security
+Computer-aided design (CAD)
+Configuración de firewall
+Configuración de sistemas
+Configuración de sistemas hardware
+Conocimientos digitales
+Control de stocks
+Creación de contenidos digitales
+Criptografía
+Diseño de campañas de marketing
+Documentación técnica
+Documentación técnica mecánica
+Dotes comerciales
+Elaboración de propuestas comerciales
+Electricidad industrial
+Embedded Linux
+Español avanzado
+European Computer Driving Licence
+Excel avanzado
+Facturación de clientes
+Firewall
+Frío industrial
+Front office
+Gestión comercial
+Gestión de clientes
+Gestión de garantía de averías
+Gestión de incidentes
+Gestión de sistemas de almacenamiento
+GNU/Linux
+Habilidades comerciales
+Habilidades digitales
+Habilidades sociales
+Herramientas digitales
+Higiene industrial
+Hojas de cálculo
+Ingeniería industrial
+Inglés avanzado
+Instalación de firewall
+Instalación de maquinaria industrial
+Instalación de software de sistemas
+Integración socioeducativa de jóvenes
+Investigación
+Investigación biotecnológica
+Investigación cualitativa
+Investigación cuantitativa
+Investigación de accidentes
+Investigación de mercado
+Investigación de mercados
+Investigación de mercados internacionales
+Investigación química
+Investigación y desarrollo
+Limpieza industrial
+Linux
+Linux RHEL
+Linux Ubuntu
+Localización de averías
+Manejo de bandeja
+Manejo de caja
+Mantenimiento de maquinaria industrial
+Mantenimiento industrial
+Marketing comercial
+Mecánica industrial
+Medios digitales
+Microsoft
+Microsoft Access
+Microsoft Azure
+Microsoft Excel
+Microsoft Internet Explorer
+Microsoft Office
+Microsoft Outlook
+Microsoft PowerPoint
+Microsoft Project
+Microsoft Sharepoint
+Microsoft SharePoint Portal Server
+Microsoft Windows
+Microsoft Windows Server
+Microsoft Word
+MS Office
+Negociación
+Negociación colectiva
+Negociación con grandes superficies
+Negociación con proveedores
+Negociación de contratos
+Negociación de ofertas
+Networking
+Normativa de la seguridad laboral
+Office
+Office 365
+Open Office
+OpenCV (Open source Computer Vision)
+Pack Office
+Paquete Office
+Planificación comercial
+Planificación de campañas de marketing
+PLC
+Preparación de bebidas
+Preparación de pedidos
+Procesadores de texto
+Programación en Python
+Programación PLC
+Project management office (PMO)
+Promoción de ventas
+Prospección de clientes
+Python
+Red Hat Enterprise Linux
+Red Hat Enterprise Linux (RHEL)
+Redes sociales
+Relaciones con clientes
+Rendimiento de sistemas
+Retención de clientes
+Router Cisco
+SCADA
+Scripting
+Security Information and Event Management (SIEM)
+Seguimiento de ofertas comerciales
+Seguridad
+Seguridad alimentaria
+Seguridad de almacén
+Seguridad en la construcción
+Seguridad en obra
+Seguridad informática
+Seguridad pública
+Seguros sociales
+Servicios sociales
+SharePoint
+Shell scripting
+SIEM
+Siemens
+Siemens NX
+Siemens WinCC
+Sistema Red de la Seguridad Social
+Sistemas eléctricos
+Sistemas operativos
+Social media marketing
+Socorrismo de piscinas
+Soporte a sistemas de ofimática
+Soporte informático a clientes
+Soporte técnico
+Tecnología de cisco
+Tecnologías Avaya
+Trabajo social
+UNIX Shell Scripting
+Venta al cliente
+Venta al detalle
+Venta cruzada
+Venta de moda
+Venta de productos
+Venta directa
+Venta en punto de venta
+Ventas
+Ventas al por menor
+Vigilancia de seguridad
+VMware
+VMware ESX
+VMware ESXi
+VMware Infrastructure
+VMware vSphere
+VMware Workstation
+VMware Workstation Pro
+Windows
+Windows 2000 Professional
+Windows 2000 Server
+Windows 7
+Windows 8
+Windows 98
+Windows Azure
+Windows Server
+Windows XP

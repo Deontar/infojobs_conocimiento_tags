@@ -1,0 +1,10 @@
+Tecnología: desarrollo y programación
+=====================================
+Algoritmos
+Análisis funcional de aplicaciones
+Documentación técnica
+OpenCV (Open source Computer Vision)
+Programación en Python
+Python
+Scripting
+Shell scripting
